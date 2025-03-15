@@ -1,5 +1,6 @@
 # Chat App
 
+Deployment link : https://chatapp-esp1.onrender.com/
 A real-time chat application built using the MERN stack, Socket.io, TailwindCSS, and Daisy UI. The app provides authentication, authorization, real-time messaging, online user status, and multiple themes.
 
 ## 🚀 Features
