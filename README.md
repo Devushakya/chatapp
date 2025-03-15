@@ -10,7 +10,7 @@ A real-time chat application built using the MERN stack, Socket.io, TailwindCSS,
 -  **Online user status** indicator
 -  **Variety of themes** using Daisy UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend**: React.js, TailwindCSS, Daisy UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
