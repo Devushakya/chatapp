@@ -4,13 +4,13 @@ Deployment link : https://chatapp-esp1.onrender.com/
 
 A real-time chat application built using the MERN stack, Socket.io, TailwindCSS, and Daisy UI. The app provides authentication, authorization, real-time messaging, online user status, and multiple themes.
 
-## 🚀 Features
+##  Features
 -  **Authentication & Authorization** using JWT
 -  **Real-time messaging** with Socket.io
 -  **Online user status** indicator
 -  **Variety of themes** using Daisy UI
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Frontend**: React.js, TailwindCSS, Daisy UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
